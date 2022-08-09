@@ -1,12 +1,19 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
+Nós da [Kognologies](https://kognologies.000webhostapp.com) somos um time de desenvolvimento de software e open-source. 
 
-**Here are some ideas to get you started:**
+- [Contate-Nos ✉️](https://kognologies.000webhostapp.com/#contact)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Simcode
+
+Nós gostamos de open-source! E provavelmente somos mais conhecidos como os criadores do [Simcode](https://nx.dev), Um simples editor de código para criar bots para discord.
+
+- [GitHub](https://github.com/Kognologies-Team/Simcode)
+
+# Siga-nos!
+
+- [GitHub](https://github.com/Kognologies-Team)
+- [Website](https://kognologies.000webhostapp.com/)
+<!-- - [Community](https://nx.dev/community?utm_source=githuborgprofile)-->
+- [Youtube](https://www.youtube.com/channel/UC8MpfETlRK04bUJkEmfV5LQ)
+- [Twitch](https://www.twitch.tv/kognologies)
